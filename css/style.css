@@ -1,0 +1,234 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  background: #070217;
+}
+
+.title {
+  width: 1420px;
+  margin: 0 auto;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  margin-bottom: 40px;
+  border: 10px solid purple;
+  border-radius: 20px;
+  background-color: red;
+  padding: 20px;
+}
+
+.text {
+  background-color: blue;
+  font-size: 20px;
+  margin-bottom: 30px;
+  border: 3px solid white;
+  border-radius: 5px;
+  text-align: center;
+  color: aqua;
+  padding: 5px;
+}
+
+.text-second {
+  width: 820px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.list {
+  font-size: 30px;
+}
+
+.list-box {
+  text-align: center;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  width: 1020px;
+  margin: 0 auto;
+  font-size: 26px;
+  text-align: center;
+  margin-bottom: 30px;
+  border: 10px solid red;
+  border-radius: 10px;
+  color: cornflowerblue;
+  background-color: purple;
+  padding: 10px;
+}
+
+.img-box {
+  text-align: center;
+}
+
+.images {
+  margin-bottom: 40px;
+}
+
+.link {
+  font-size: 30px;
+  color: aqua;
+}
+
+.content {
+  margin: 0 auto;
+  background: greenyellow;
+}
+
+.second-img {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 20px;
+}
+
+.subject {
+  width: 1220px;
+  margin: 0 auto;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  margin-bottom: 40px;
+  border: 10px solid purple;
+  border-radius: 20px;
+  background-color: red;
+  padding: 20px;
+}
+
+.video-box {
+  text-align: center;
+}
+
+.desc {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: blue;
+  font-size: 25px;
+  margin-bottom: 30px;
+  border: 3px solid black;
+  border-radius: 5px;
+  text-align: center;
+  color: aqua;
+  padding: 5px;
+}
+
+.caption {
+  width: 1620px;
+  margin: 0 auto;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  border: 10px solid red;
+  border-radius: 10px;
+  color: cornflowerblue;
+  background-color: purple;
+  padding: 10px;
+}
+
+.slogan {
+  width: 820px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 25px;
+  border: 5px solid purple;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  background-color: red;
+  color: blue;
+  padding: 10px;
+}
+
+.second-video {
+  text-align: center;
+}
+
+.maps {
+  text-align: center;
+}
+
+.video-second {
+  margin-bottom: 30px;
+}
+
+.video-first {
+  margin-bottom: 30px;
+}
+
+.link-second {
+  margin-right: 80px;
+}
+
+.second-container {
+  margin: 0 auto;
+  background: blueviolet;
+  padding: 10px;
+}
+
+.special-container {
+  margin: 0 auto;
+  width: 900px;
+  height: 700px;
+  background: salmon;
+  border: 5px solid red;
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  margin: 30px auto;
+  font-size: 40px;
+  text-align: center;
+  color: black;
+  margin-bottom: 40px;
+  border: 10px solid purple;
+  border-radius: 20px;
+  background-color: blue;
+  padding: 20px;
+  width: 30%;
+}
+
+.items {
+  width: 250px;
+  height: 150px;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items-1 {
+  background-image: url(../Images/progromirovanie.png);
+}
+
+.items-2 {
+  background-image: url(../Images/internetmarketing.jpg);
+}
+
+.items-3 {
+  background-image: url(../Images/prodesign.webp);
+}
+
+.items-4 {
+  background-image: url(../Images/sitemniy\ administrator.webp);
+}
+
+.items-5 {
+  background-image: url(../Images/smm.webp);
+}
+
+.link-back {
+  width: 250px;
+  height: 150px;
+}
